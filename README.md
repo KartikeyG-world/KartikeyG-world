@@ -168,9 +168,15 @@
 # 🐍 Contribution Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph.svg">
-<img src="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
