@@ -86,13 +86,15 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<!-- <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/> -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<!-- <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/> -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
@@ -133,17 +135,18 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KartikeyG-world&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KartikeyG-world&theme=tokyonight"/>
+<img src="https://git-hub-vercel-blue.vercel.app/api?username=KartikeyG-world&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyG-world&theme=tokyonight&utcOffset=5.5"/>
 
 <br><br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=KartikeyG-world&theme=tokyonight&hide_border=true"/>
+<!-- <img src="https://streak-stats.demolab.com?user=KartikeyG-world&theme=tokyonight&hide_border=true"/> -->
+<img src="https://streak-stats.demolab.com?user=KartikeyG-world&theme=tokyonight&hide_border=true&v=2"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KartikeyG-world&theme=onedark&no-frame=true&no-bg=true&margin-w=8"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=KartikeyG-world&theme=onedark&no-frame=true&no-bg=true&margin-w=8"/> -->
 
 <br><br>
 
