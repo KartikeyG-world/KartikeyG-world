@@ -137,7 +137,7 @@
 
 <img src="https://git-hub-vercel-blue.vercel.app/api?username=KartikeyG-world&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyG-world&theme=tokyonight&utcOffset=5.5"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyG-world&theme=tokyonight&utcOffset=5.5"/> -->
 
 <br><br>
 
