@@ -129,20 +129,24 @@
 
 <div align="center">
 
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikeyG-world&theme=tokyonight"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikeyG-world&theme=tokyonight"/>
+<br><br>
+
 <img height="170" src="https://git-hub-vercel-blue.vercel.app/api/top-langs?username=KartikeyG-world&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikeyG-world&theme=tokyonight"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikeyG-world&theme=tokyonight"/>
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KartikeyG-world&theme=tokyonight"/> -->
 
-<img src="https://git-hub-vercel-blue.vercel.app/api?username=KartikeyG-world&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<!-- <img src="https://git-hub-vercel-blue.vercel.app/api?username=KartikeyG-world&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> -->
 
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyG-world&theme=tokyonight&utcOffset=5.5"/> 
 
-<br><br>
+
+<!-- <br><br> -->
 
 <!-- <img src="https://streak-stats.demolab.com?user=KartikeyG-world&theme=tokyonight&hide_border=true"/> -->
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyG-world&theme=tokyonight&utcOffset=5.5"/>
 <img src="https://streak-stats.demolab.com/?user=KartikeyG-world&theme=tokyonight&hide_border=true"/>
 
 <br><br>
@@ -172,17 +176,9 @@
 # 🐍 Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph.svg">
-
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/KartikeyG-world/KartikeyG-world/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
