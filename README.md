@@ -127,7 +127,7 @@
 
 # 📈 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikeyG-world&theme=tokyonight"/>
 <br><br>
@@ -136,7 +136,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikeyG-world&theme=tokyonight"/>
 
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KartikeyG-world&theme=tokyonight"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KartikeyG-world&theme=tokyonight"/>
 
 <!-- <img src="https://git-hub-vercel-blue.vercel.app/api?username=KartikeyG-world&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> -->
 
@@ -145,15 +145,13 @@
 <!-- <br><br> -->
 
 <!-- <img src="https://streak-stats.demolab.com?user=KartikeyG-world&theme=tokyonight&hide_border=true"/> -->
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyG-world&theme=tokyonight&utcOffset=5.5"/>
-<img src="https://streak-stats.demolab.com/?user=KartikeyG-world&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyG-world&theme=tokyonight&utcOffset=5.5"/> -->
+<!-- <img src="https://streak-stats.demolab.com/?user=KartikeyG-world&theme=tokyonight&hide_border=true"/> -->
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=KartikeyG-world&theme=onedark&no-frame=true&no-bg=true&margin-w=8"/> -->
 
-<br><br>
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=KartikeyG-world&theme=onedark&no-frame=true&no-bg=true&margin-w=8"/> --> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyG-world&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true"/>
 
