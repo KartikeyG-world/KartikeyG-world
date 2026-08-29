@@ -125,7 +125,7 @@
 
 ---
 
-# 📈 GitHub Analytics
+<!-- # 📈 GitHub Analytics
 
 <!-- <div align="center">
 
@@ -153,11 +153,11 @@
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=KartikeyG-world&theme=onedark&no-frame=true&no-bg=true&margin-w=8"/> --> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyG-world&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyG-world&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true"/> -->
 
-</div>
+<!-- </div> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/> -->
 
 ---
 
